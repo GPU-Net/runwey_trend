@@ -79,7 +79,7 @@ Runwey is a dynamic Flutter-powered mobile application designed for content crea
 Runwey is an innovative mobile application designed with the following objectives in mind.
 
 
-![App Screenshot](https://i.ibb.co/BnRJqYT/Profile-1.jpg)
+![App Screenshot](https://i.ibb.co/QkBw8Hd/Screenshot-1ww.png)
 
 ## Development Setup
 
